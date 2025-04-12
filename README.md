@@ -67,11 +67,9 @@
 
 * فروشگاه آنلاین با استفاده از جنگو و معماری ام وی تی :  (Django-Ecommerce-project-Mvt (https://github.com/arvinashoori/Ecommerce_Project))
 
-* مدیریت و ساخت برنامه ورزشی :  (https://github.com/arvinashoori/sport-managment-app)(python-gui-tkinter-sqlite3-tksheet
-)
+* مدیریت و ساخت برنامه ورزشی :  (https://github.com/arvinashoori/sport-managment-app(python-gui-tkinter-sqlite3-tksheet))
 
-* سرویس  کراد با استفاده از رست فریمورک : (https://github.com/arvinashoori/drf-project )(rest-django-crud-mysql
-)
+* سرویس  کراد با استفاده از رست فریمورک : (https://github.com/arvinashoori/drf-project (rest-django-crud-mysql))
 
 
 * انبارداری با پایتون:    ( tkinter-matplotlip-numpy-pandas-oop-python-crud-sqlite (https://github.com/arvinashoori/inventory-management-with-python-tkinter ))
