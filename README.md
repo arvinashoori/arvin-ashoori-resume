@@ -25,7 +25,7 @@
 ### 🛠️ مهارت ها  :
    دارای مهارت های قابل قبول در زمینه های :
 
-  BackEnd Development with Pyhton & Django & Drf & MySQL & PostgreSQL
+  BackEnd Development with Pyhton & Django & Drf & MySQL & PostgreSQL & CI/CD & Clean Code
 
 
 
@@ -58,16 +58,21 @@
     ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
     ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+ 
+    
 
 ### 🔭 پروژه‌های  من:
 
   چند پروژه‌ای که اخیراً روی آن‌ها کار کرده‌ام  :
 
+* فروشگاه آنلاین با استفاده از جنگو و معماری ام وی تی :  (Django-Ecommerce-project-Mvt (https://github.com/arvinashoori/Ecommerce_Project))
 
 * مدیریت و ساخت برنامه ورزشی : (  python gui - tkinter - sqlite3 - tksheet (https://github.com/arvinashoori/sport-managment-app ))
+
 * سرویس  کراد با استفاده از رست فریمورک :  ( rest-django-crud-mysql (https://github.com/arvinashoori/drf-project ))
 
-* انبارداری با  پایتون :  ( tkinter-matplotlip-numpy-pandas-oop-python-crud-sqlite (https://github.com/arvinashoori/inventory-management-with-python-tkinter ))
+
+* انبارداری با پایتون:  ( tkinter-matplotlip-numpy-pandas-oop-python-crud-sqlite (https://github.com/arvinashoori/inventory-management-with-python-tkinter ))
 
 
 
