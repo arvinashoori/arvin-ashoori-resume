@@ -1,7 +1,7 @@
 # Arvin Ashoori
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinashoori&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-Arvin Ashoori, born in 1981 (Solar Hijri Calendar equivalent)
+Arvin Ashoori, born in 2002 
 
 Education: Bachelor of Science in Computer Engineering, Karaj Azad University
 
