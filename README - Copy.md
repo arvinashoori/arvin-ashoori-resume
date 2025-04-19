@@ -75,6 +75,6 @@ You can find me on these platforms:
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvin-ashoori-890b1335a) :   [www.linkedin.com/in/arvin-ashoori-890b1335a](https://www.linkedin.com/in/arvin-ashoori-890b1335a)
 
-* ✉️ Email: [نشانی ایمیل برداشته شد]
+* ✉️ Email: arvin.ashoori@gmail.com
 
 * 🌐 Personal Website/Blog: -
